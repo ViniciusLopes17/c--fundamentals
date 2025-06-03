@@ -1,0 +1,14 @@
+/home/lopes/Documents/freeCodeCamp/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject
+/home/lopes/Documents/freeCodeCamp/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/home/lopes/Documents/freeCodeCamp/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/home/lopes/Documents/freeCodeCamp/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.dll
+/home/lopes/Documents/freeCodeCamp/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.pdb
+/home/lopes/Documents/freeCodeCamp/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/lopes/Documents/freeCodeCamp/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/home/lopes/Documents/freeCodeCamp/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/home/lopes/Documents/freeCodeCamp/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/home/lopes/Documents/freeCodeCamp/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.dll
+/home/lopes/Documents/freeCodeCamp/CsharpProjects/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/home/lopes/Documents/freeCodeCamp/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.pdb
+/home/lopes/Documents/freeCodeCamp/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/home/lopes/Documents/freeCodeCamp/CsharpProjects/TestProject/obj/Debug/net8.0/ref/TestProject.dll
